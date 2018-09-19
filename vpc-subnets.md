@@ -11,6 +11,7 @@ Many (if not all of the workloads) can be hosted in a three-tier architecture.
   - Use a NAT/Proxy server to make outgoing internet traffic
 
 ### DB
+  - Allow traffic from Private Subnets **ONLY**
   - Database hosts, RDS and others
   - Caching endpoints like Redis
   - No internet access
