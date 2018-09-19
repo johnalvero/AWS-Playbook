@@ -7,6 +7,7 @@
 
 ## RDS
   - [Configuration](rds-configuration.md)
+  - [MySQL Parameter Groups](mysql-params.md)
 
 ## EC2
   - [Configuration](ec2-configuration.md)
