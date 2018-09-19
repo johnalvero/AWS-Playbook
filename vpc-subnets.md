@@ -2,6 +2,7 @@ Many (if not all of the workloads) can be hosted in a three-tier architecture.
 
 ### DMZ
   - Load Balancers, Jump/Bastion Servers, Proxy Servers, NAT instance
+  - Application instances may be hosted here if there is a strong use-case
   - Open ports 80, 443 and any other application port
 
 ### Private
