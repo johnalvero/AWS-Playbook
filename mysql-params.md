@@ -7,8 +7,14 @@ query_cache_size=16777216
 read_buffer_size=1048576
 sort_buffer_size=1048576
 thread_cache_size=100
+connect_timeout=5 seconds
+
+# for statefull connections
 wait_timeout=28800
 
+# for stateless connections
+wait_timeout=60
+  
 # For supporting international language
 character_set_client=utf8
 character_set_connection=utf8
