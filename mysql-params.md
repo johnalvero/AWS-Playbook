@@ -1,3 +1,4 @@
+```
 # Basic Parameter Group
 join_buffer_size=1048576
 long_query_time=2
@@ -16,3 +17,4 @@ character_set_results=utf8
 character_set_server=utf8
 collation_connection=utf8_general_ci
 collation_server=utf8_general_ci
+```
