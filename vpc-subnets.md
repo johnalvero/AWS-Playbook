@@ -14,3 +14,5 @@ Many (if not all of the workloads) can be hosted in a three-tier architecture.
   - Database hosts, RDS and others
   - Caching endpoints like Redis
   - No internet access
+
+![Three-tier diagram](https://github.com/johnalvero/AWS-Playbook/blob/master/images/thee-tier-sample.jpeg)
