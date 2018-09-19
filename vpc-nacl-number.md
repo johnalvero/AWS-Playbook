@@ -9,4 +9,4 @@ For easy identification of rules, the following number scheme is recommended
 | 10xxx | Testing rules. Can be removed without notice||
 
 
-/play 56k
+ :shipit:
