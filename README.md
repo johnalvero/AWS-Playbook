@@ -8,7 +8,7 @@
 ## RDS
   - [Configuration](rds-configuration.md)
   - [Security Groups](rds-secgroups.md)
-  - [MySQL Parameter Groups](mysql-params.md)
+  - [MySQL Parameter Groups](rds-mysql-params.md)
 
 ## EC2
   - [Configuration](ec2-configuration.md)
