@@ -1,6 +1,6 @@
 For easy identification of rules, the following number scheme is recommended
 
-| Number Series |D escription | Example |
+| Number Series | Description | Example |
 |-------------|-----------|-------|
 | 1XX   | Makes VPC/Network work                      |NTP, DNS, HTTP Proxy, Inter-subnet traffic,Ephemeral Ports|
 | 2XX   | Makes the application work                  |HTTP, HTTPS|
